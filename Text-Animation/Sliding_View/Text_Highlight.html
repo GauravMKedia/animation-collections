@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text_Highlight</title>
+    <!-- <script src="./Text_Highlight.css"></script> -->
+    <style>
+        body{
+            background: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+        }
+        .box {
+            font-weight: bolder;
+            font-size: 60px;
+            cursor: pointer;
+            background-image: linear-gradient(to right, #ec1839 50%, #ffffff 50%);
+            background-size: 200% 100%;
+            background-position: -100%;
+            display: inline-block;
+            padding: 5px 0;
+            position: relative;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .box:hover{
+            background-position: 0;
+        }
+
+        .box:hover::before{
+            width: 100%;
+        }
+        .box:before {
+            content: '';
+            background: #ec1839;
+            display: block;
+            position: absolute;
+            bottom: -3px;
+            left: 0;
+            width: 0;
+            height: 3px;
+            transition: all 0.3s ease-in-out;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            This is a box
+        </div>
+    </div>
+</body>
+
+</html>
