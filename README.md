@@ -97,3 +97,13 @@ git push -u origin <your_branch_name>
 **12.** Add appropriate title and description to your pull request explaining your changes and efforts.
 
 **13.** Click on `Create Pull Request`.
+
+
+
+# Contributors
+
+<a href="https://github.com/GauravMKedia/animation-collections/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GauravMKedia/animation-collections" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
