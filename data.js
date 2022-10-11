@@ -30,5 +30,11 @@ let animtaionData = [
         AnimationGif: './animations/Loader/loading_sea-waves/sea_wave.gif',
         AnimationURL: './animations/Loader/loading_sea-waves/index.html',
     },
+    {
+        ContributorName: 'Harsh Zanwar',
+        ContributorURL: "https://github.com/HarshZanwar2001",
+        AnimationGif: './animations/hotcoffe/hotcoffe.gif',
+        AnimationURL: './animations/hotcoffe/Hotcoffe.html',
+    },
 ]
 
