@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="./assets/Logo.png" width="40%">
+        <img src="./Logo.png" width="40%">
     </a>
 </p>
 <h1 align="center"> Web Animations 🎉</h1>
@@ -30,6 +30,7 @@ To start contributing, follow the below guidelines:
    * Create the animation by yourself.
    * Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
    * Add a gif of your animation in your folder for preview.
+   * Add your detail in data.js file as shown.
 
 5. Make a pull request. 
 

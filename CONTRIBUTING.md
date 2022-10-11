@@ -6,6 +6,13 @@ Welcome to the world of open-source! It is really **awesome** to have you here. 
 
 This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕. If you are a beginner, and looking for your first contribution, we are here to help. Just add your details to `CONTRIBUTORS.md` as `[Your Name](Your Github Link)`.
 
+## How to Contribute?
+
+- Fork this repository
+- Add a new animation with its gif or solve an existing issue
+- Add your contribution detail to data.js file
+- Create a pull request
+
 ## Resources
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
