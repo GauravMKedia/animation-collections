@@ -87,3 +87,10 @@ h2{
     font-size: 18px;
     text-align: center;
 }
+
+
+@media (max-width:1199px){
+    .animationcards{
+        flex-basis: 100%;
+    }
+}
