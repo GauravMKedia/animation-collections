@@ -20,7 +20,7 @@ let animtaionData = [
     },
     {
         ContributorName: 'Madhav Jha',
-        ContributorURL: "https://github.com/Harsheet196",
+        ContributorURL: "https://github.com/jhamadhav",
         AnimationGif: './animations/Loader/Loading_Spinner/loading_spinner.gif',
         AnimationURL: './animations/Loader/Loading_Spinner/loading_spinner.html',
     },
