@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+    /* color: #fff; */
+    scroll-behavior: smooth;
+}
+
+body{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    background-color:#dddddd;
+}
+
+.main-content{
+    /* display: flex; */
+    justify-content: center;
+}
+
+h1{
+    padding-top: 50px;
+    color: #37517e;
+    font-size: 30px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
+hr{
+    border: none;
+    height: 5px;
+    background-color: #47b2e4;
+    width: 100px;
+    margin: 20px auto;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.animationcards{
+    position: relative;
+    flex-basis: 30%;
+    background-color: #37517e;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    /* border: 5px solid black; */
+}
+.animationcards:hover{
+    filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.4));
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.25s ease-in-out;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.img-box{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    margin-block-start: 1.67em;
+    justify-content: center;
+    
+}
+.animateCardImg{
+    width: 100%;
+    height: 200px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+.contributor{
+    font-size: 18px;
+    text-align: center;
+}
+
+
+@media (max-width:1199px){
+    .animationcards{
+        flex-basis: 100%;
+    }
+}
