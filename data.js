@@ -54,5 +54,11 @@ let animtaionData = [
         AnimationGif: './animations/dragon loader/loader.gif',
         AnimationURL: "./animations/dragon loader/index.html",
     },
+    {
+        ContributorName: 'ImOnlyYisus',
+        ContributorURL: "https://github.com/ImOnlyYisus",
+        AnimationGif: './animations/social-menu/social-media-icons.gif',
+        AnimationURL: "./animations/social-menu/index.html",
+    }
 ]
 
