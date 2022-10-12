@@ -5,7 +5,7 @@ let animtaionData = [
     {
         ContributorName: 'Your Name',
         ContributorURL: "Your Github Account Link",
-        AnimationGif: 'Your Animation Folder GIF file address',
+        AnimationGif: 'Your Animation GIF file link',
         AnimationURL: "Your Animation Folder HTML file address",
     },
 
@@ -14,26 +14,26 @@ let animtaionData = [
     {
         ContributorName: 'Gaurav Kedia',
         ContributorURL: "https://github.com/GauravMKedia",
-        AnimationGif: './animations/Text-Animation/Bouncing_With_Reflection/Bouncing_Text.gif',
+        AnimationGif: 'https://i.imgur.com/cA9gCiT.gif',
         AnimationURL: "./animations/Text-Animation/Bouncing_With_Reflection/Bouncing_Text.html",
 
     },
     {
         ContributorName: 'Madhav Jha',
         ContributorURL: "https://github.com/jhamadhav",
-        AnimationGif: './animations/Loader/Loading_Spinner/loading_spinner.gif',
+        AnimationGif: 'https://i.imgur.com/cwuZpqb.gif',
         AnimationURL: './animations/Loader/Loading_Spinner/loading_spinner.html',
     },
     {
         ContributorName: 'Harsheet Chordiya',
         ContributorURL: "https://github.com/Harsheet196",
-        AnimationGif: './animations/Loader/loading_sea-waves/sea_wave.gif',
+        AnimationGif: 'https://i.imgur.com/1Ez2kS4.gif',
         AnimationURL: './animations/Loader/loading_sea-waves/index.html',
     },
     {
         ContributorName: 'Harsh Zanwar',
         ContributorURL: "https://github.com/HarshZanwar2001",
-        AnimationGif: './animations/hotcoffe/hotcoffe.gif',
+        AnimationGif: 'https://i.imgur.com/gRaPKAE.gif',
         AnimationURL: './animations/hotcoffe/Hotcoffe.html',
     },
 ]
