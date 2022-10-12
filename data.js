@@ -42,5 +42,12 @@ let animtaionData = [
         AnimationGif: './animations/Loading_Animation/loading_animation.gif',
         AnimationURL: './animations/Loading_Animation/loadinganimation.html',
     },
+    {
+        ContributorName: 'Harsh Zanwar',
+        ContributorURL: "https://github.com/HarshZanwar2001",
+        AnimationGif: './animations/candle/candles.gif',
+        AnimationURL: './animations/candle/candle.html',
+    },
+
 ]
 
