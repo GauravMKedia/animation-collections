@@ -66,5 +66,11 @@ let animtaionData = [
         AnimationGif: './animations/buttonanimation/button_animation.gif',
         AnimationURL: './animations/buttonanimation/button_animation.html',
     },
+    {
+        ContributorName: 'Prathiksha Kini',
+        ContributorURL: "https://github.com/pkini2002",
+        AnimationGif: './animations/shapeanimation/animation.gif',
+        AnimationURL: './animations/shapeanimation/index.html',
+    },
 ]
 
