@@ -36,5 +36,11 @@ let animtaionData = [
         AnimationGif: './animations/hotcoffe/hotcoffe.gif',
         AnimationURL: './animations/hotcoffe/Hotcoffe.html',
     },
+    {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/growing bars/growing_shrinking_bars.gif',
+        AnimationURL: './animations/growing bars/growing_shrinking_bars.html',
+    },
 ]
 
