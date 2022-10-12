@@ -36,5 +36,11 @@ let animtaionData = [
         AnimationGif: './animations/hotcoffe/hotcoffe.gif',
         AnimationURL: './animations/hotcoffe/Hotcoffe.html',
     },
+    {
+        ContributorName: 'Jasim Razi',
+        ContributorURL: "https://github.com/jasimrazi",
+        AnimationGif: './animations/Loading_Animation/loading_animation.gif',
+        AnimationURL: './animations/Loading_Animation/loadinganimation.html',
+    },
 ]
 
