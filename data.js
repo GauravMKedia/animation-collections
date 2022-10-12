@@ -41,6 +41,18 @@ let animtaionData = [
         ContributorURL: "https://github.com/Riyaloya27",
         AnimationGif: './animations/growing bars/growing_shrinking_bars.gif',
         AnimationURL: './animations/growing bars/growing_shrinking_bars.html',
+     },
+     {
+        ContributorName: 'Jasim Razi',
+        ContributorURL: "https://github.com/jasimrazi",
+        AnimationGif: './animations/Loading_Animation/loading_animation.gif',
+        AnimationURL: './animations/Loading_Animation/loadinganimation.html',
+    },
+    {
+        ContributorName: 'Khushi Shroff',
+        ContributorURL: "https://github.com/Ks103",
+        AnimationGif: './animations/dragon loader/loader.gif',
+        AnimationURL: "./animations/dragon loader/index.html",
     },
 ]
 
