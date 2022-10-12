@@ -42,5 +42,12 @@ let animtaionData = [
         AnimationGif: './animations/Loading_Animation/loading_animation.gif',
         AnimationURL: './animations/Loading_Animation/loadinganimation.html',
     },
+    {
+        ContributorName: 'Khushi Shroff',
+        ContributorURL: "https://github.com/Ks103",
+        AnimationGif: './animations/dragon loader/loader.gif',
+        AnimationURL: "./animations/dragon loader/index.html",
+
+    },
 ]
 
