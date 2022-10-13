@@ -85,5 +85,11 @@ let animtaionData = [
         AnimationGif: './animations/candle/candles.gif',
         AnimationURL: './animations/candle/candle.html',
     },
+    {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/coffee machine/coffee_machine.gif',
+        AnimationURL: './animations/coffee machine/coffee_machine.html',
+    },
 ]
 
