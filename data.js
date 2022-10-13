@@ -60,5 +60,11 @@ let animtaionData = [
         AnimationGif: './animations/buttonanimation/button_animation.gif',
         AnimationURL: './animations/buttonanimation/button_animation.html',
     },
+    {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/coffee machine/coffee_machine.gif',
+        AnimationURL: './animations/coffee machine/coffee_machine.html',
+    },
 ]
 
