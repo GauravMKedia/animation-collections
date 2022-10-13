@@ -37,10 +37,41 @@ let animtaionData = [
         AnimationURL: './animations/hotcoffe/Hotcoffe.html',
     },
     {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/growing bars/growing_shrinking_bars.gif',
+        AnimationURL: './animations/growing bars/growing_shrinking_bars.html',
+     },
+     {
         ContributorName: 'Jasim Razi',
         ContributorURL: "https://github.com/jasimrazi",
         AnimationGif: './animations/Loading_Animation/loading_animation.gif',
         AnimationURL: './animations/Loading_Animation/loadinganimation.html',
+    },
+    {
+
+        ContributorName: 'Khushi Shroff',
+        ContributorURL: "https://github.com/Ks103",
+        AnimationGif: './animations/dragon loader/loader.gif',
+        AnimationURL: "./animations/dragon loader/index.html",
+    },
+    {
+        ContributorName: 'ImOnlyYisus',
+        ContributorURL: "https://github.com/ImOnlyYisus",
+        AnimationGif: './animations/social-menu/social-media-icons.gif',
+        AnimationURL: "./animations/social-menu/index.html",
+    },
+    {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/buttonanimation/button_animation.gif',
+        AnimationURL: './animations/buttonanimation/button_animation.html',
+    },
+    {
+        ContributorName: 'Prathiksha Kini',
+        ContributorURL: "https://github.com/pkini2002",
+        AnimationGif: './animations/shapeanimation/animation.gif',
+        AnimationURL: './animations/shapeanimation/index.html',
     },
     {
         ContributorName: 'Harsh Zanwar',
@@ -48,6 +79,5 @@ let animtaionData = [
         AnimationGif: './animations/candle/candles.gif',
         AnimationURL: './animations/candle/candle.html',
     },
-
 ]
 
