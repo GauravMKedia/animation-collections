@@ -72,5 +72,11 @@ let animtaionData = [
         AnimationGif: './animations/shapeanimation/animation.gif',
         AnimationURL: './animations/shapeanimation/index.html',
     },
+    {
+        ContributorName: 'Aryaman Shukla',
+        ContributorURL: "https://github.com/AcidicArmadillo",
+        AnimationGif: './animations/Truck-Animation/Truck_Animation.gif',
+        AnimationURL: "./animations/Truck-Animation/index.html",
+    },
 ]
 
