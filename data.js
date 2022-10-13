@@ -39,8 +39,8 @@ let animtaionData = [
     {
         ContributorName: 'Riya Loya',
         ContributorURL: "https://github.com/Riyaloya27",
-        AnimationGif: './animations/growing bars/growing_shrinking_bars.gif',
-        AnimationURL: './animations/growing bars/growing_shrinking_bars.html',
+        AnimationGif: './animations/growing_bars/growing_shrinking_bars.gif',
+        AnimationURL: "./animations/growing_bars/growing_shrinking_bars.html",
      },
      {
         ContributorName: 'Jasim Razi',
@@ -52,14 +52,20 @@ let animtaionData = [
 
         ContributorName: 'Khushi Shroff',
         ContributorURL: "https://github.com/Ks103",
-        AnimationGif: './animations/dragon loader/loader.gif',
-        AnimationURL: "./animations/dragon loader/index.html",
+        AnimationGif: './animations/dragon_loader/loader.gif',
+        AnimationURL: "./animations/dragon_loader/index.html",
     },
     {
         ContributorName: 'ImOnlyYisus',
         ContributorURL: "https://github.com/ImOnlyYisus",
         AnimationGif: './animations/social-menu/social-media-icons.gif',
         AnimationURL: "./animations/social-menu/index.html",
+    },
+    {
+        ContributorName: 'Harsheet Chordiya',
+        ContributorURL: "https://github.com/Harsheet196",
+        AnimationGif: './animations/Loader/Homepage_Loader/Homepage_Loader.gif',
+        AnimationURL: './animations/Loader/Homepage_Loader/index.html',
     },
     {
         ContributorName: 'Riya Loya',
@@ -80,6 +86,12 @@ let animtaionData = [
         AnimationURL: "./animations/Truck-Animation/index.html",
      },
      {
+        ContributorName: 'Madhav Jha',
+        ContributorURL: "https://github.com/jhamadhav",
+        AnimationGif: './animations/Loader/Loading_Bars/loading_bar.gif',
+        AnimationURL: './animations/Loader/Loading_Bars/loading_bar.html',
+    },
+     {
         ContributorName: 'Harsh Zanwar',
         ContributorURL: "https://github.com/HarshZanwar2001",
         AnimationGif: './animations/candle/candles.gif',
@@ -88,8 +100,8 @@ let animtaionData = [
     {
         ContributorName: 'Riya Loya',
         ContributorURL: "https://github.com/Riyaloya27",
-        AnimationGif: './animations/coffee machine/coffee_machine.gif',
-        AnimationURL: './animations/coffee machine/coffee_machine.html',
+        AnimationGif: './animations/coffee_machine/coffee_machine.gif',
+        AnimationURL: './animations/coffee_machine/coffee_machine.html',
     },
 ]
 
