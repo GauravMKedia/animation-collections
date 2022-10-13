@@ -103,5 +103,12 @@ let animtaionData = [
         AnimationGif: './animations/coffee_machine/coffee_machine.gif',
         AnimationURL: './animations/coffee_machine/coffee_machine.html',
     },
+    {
+        ContributorName: 'Riya Loya',
+        ContributorURL: "https://github.com/Riyaloya27",
+        AnimationGif: './animations/3D Toggle Switch/toggle_switch.gif',
+        AnimationURL: './animations/3D Toggle Switch/toggle_switch.html',
+    },
+   
 ]
 
