@@ -49,6 +49,7 @@ let animtaionData = [
         AnimationURL: './animations/Loading_Animation/loadinganimation.html',
     },
     {
+
         ContributorName: 'Khushi Shroff',
         ContributorURL: "https://github.com/Ks103",
         AnimationGif: './animations/dragon loader/loader.gif',
@@ -77,6 +78,12 @@ let animtaionData = [
         ContributorURL: "https://github.com/AcidicArmadillo",
         AnimationGif: './animations/Truck-Animation/Truck_Animation.gif',
         AnimationURL: "./animations/Truck-Animation/index.html",
+     },
+     {
+        ContributorName: 'Harsh Zanwar',
+        ContributorURL: "https://github.com/HarshZanwar2001",
+        AnimationGif: './animations/candle/candles.gif',
+        AnimationURL: './animations/candle/candle.html',
     },
 ]
 
