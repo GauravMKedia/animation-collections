@@ -108,6 +108,12 @@ let animtaionData = [
         ContributorURL: "https://github.com/Riyaloya27",
         AnimationGif: 'https://i.imgur.com/uQVsIPH.gif',
         AnimationURL: './animations/3D Toggle Switch/toggle_switch.html',
+    },   
+    {
+        ContributorName: 'Vinni Fengade',
+        ContributorURL: "https://github.com/VinniLP",
+        AnimationGif: './animations/Click_Me/click_me.gif',
+        AnimationURL: './animations/Click_Me/click_me.html',
     },
    
 ]
