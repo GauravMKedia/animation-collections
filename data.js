@@ -118,7 +118,7 @@ let animtaionData = [
     {
         ContributorName: 'Pranav Mohgaonkar',
         ContributorURL: "https://github.com/gitPranav09",
-        AnimationGif: './animations/simple_loader/simple_loader.gif',
+        AnimationGif: 'https://i.imgur.com/LaSlZRW.gif',
         AnimationURL: "./animations/simple_loader/simple_loader.html",
     },
    
