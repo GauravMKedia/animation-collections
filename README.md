@@ -9,7 +9,7 @@ This is a repository *entirely dedicated* to animations used in creating a websi
 
 ## Launguage to be Considered
 - HTML
-- CSS
+- CSS/SCSS
 - JavaSript
 - React.js
 - Node.js
