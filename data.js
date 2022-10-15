@@ -115,6 +115,12 @@ let animtaionData = [
         AnimationGif: './animations/Click_Me/click_me.gif',
         AnimationURL: './animations/Click_Me/click_me.html',
     },
+    {
+        ContributorName: 'Pranav Mohgaonkar',
+        ContributorURL: "https://github.com/gitPranav09",
+        AnimationGif: './animations/simple_loader/simple_loader.gif',
+        AnimationURL: "./animations/simple_loader/simple_loader.html",
+    },
    
 ]
 
