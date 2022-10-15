@@ -9,7 +9,7 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 ## How to Contribute?
 
 - Fork this repository
-- Add a new animation with its gif or solve an existing issue
+- Add a new animation, create it gif and upload it on https://img.doerig.dev/ and get the gif link, or solve an existing issue.
 - Add your contribution detail to data.js file
 - Create a pull request
 

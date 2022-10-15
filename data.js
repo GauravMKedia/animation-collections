@@ -112,7 +112,7 @@ let animtaionData = [
     {
         ContributorName: 'Vinni Fengade',
         ContributorURL: "https://github.com/VinniLP",
-        AnimationGif: './animations/Click_Me/click_me.gif',
+        AnimationGif: 'https://i.imgur.com/KBfjstC.gif',
         AnimationURL: './animations/Click_Me/click_me.html',
     },
    
