@@ -14,7 +14,7 @@ This is a repository *entirely dedicated* to animations used in creating a websi
 - React.js
 - Node.js
 
-## How to Create Git?
+## How to Create Gif?
 1. Do the screen recording of your animation.
 
 2. Go to https://ezgif.com/video-to-gif.
