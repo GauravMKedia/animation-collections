@@ -143,7 +143,7 @@ let animtaionData = [
         ContributorName: 'Smruti Agrawal',
         ContributorURL: "https://github.com/smritiagrawall",
         AnimationGif: "https://i.imgur.com/ZeQQNqx.gif",
-        AnimationURL: "/animations/Smriti/tiger.html",
+        AnimationURL: "./animations/Smriti/tiger.html",
     },
     {
         ContributorName: 'Arpit Agrawal',
@@ -169,17 +169,17 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/ZJzeGR5.gif',
         AnimationURL: "./animations/Ghost/ghost.html",
     },
-    
-    
-    
-    
-    
-    
     {
         ContributorName: 'Pratik Agrawal',
         ContributorURL: "https://github.com/RudraPratik30",
         AnimationGif: 'https://i.imgur.com/clA8zge.gif',
         AnimationURL: "./animations/Hen/hen.html",
+    },
+    {
+        ContributorName: 'Smruti Agrawal',
+        ContributorURL: "https://github.com/smritiagrawall",
+        AnimationGif: "https://i.imgur.com/YsqwKSS.gif",
+        AnimationURL: "./animations/Atom/atom.html",
     },
     
 ]
