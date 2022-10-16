@@ -170,5 +170,17 @@ let animtaionData = [
         AnimationURL: "./animations/Ghost/ghost.html",
     },
     
+    
+    
+    
+    
+    
+    {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/clA8zge.gif',
+        AnimationURL: "./animations/Hen/hen.html",
+    },
+    
 ]
 

@@ -1,0 +1,116 @@
+body {
+    background-color:#6DA36D;
+  }
+  
+  .chickenSVG {
+    
+  }
+  
+  .main {
+    width: 800px;
+    display: flex;
+  }
+  /* FELICITY & REVENGE ANIMATIONS */
+  
+  #peck-R {
+      animation-name: revengePeck;
+      animation-delay: 0s;
+      animation-duration: 8s;
+     animation-iteration-count: infinite;
+    transform-origin: center;
+  }
+  
+  @keyframes revengePeck {
+      0%   {transform: rotate(0deg)}
+     20%   {transform: rotate(-50deg)}
+     40%   {transform: rotate(0deg)}
+     65% {transform: rotate(-50deg)}
+    70% {transform: rotate(0deg)}
+    100% {transform: rotate(0deg)}  
+  }
+  
+  #kick-R {
+      animation-name: kickie;
+      transform-origin: top;  
+      animation-delay: 0s;
+      animation-duration: 4s;
+     animation-iteration-count: infinite;
+  }
+  
+  @keyframes kickie {
+      0%   {transform: rotate(0deg)}
+     50%   {transform: rotate(-20deg)}
+    100%   {transform: rotate(0deg)}
+  }
+  
+  #Shadow-R {
+      position: relative;
+      animation-name: shadowMove;
+      animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shadowMove {
+     0%    {transform: translateX(0px)}
+     20%   {transform: translateX(50px)}
+     40%   {transform: translateX(0px)}
+     65%   {transform: translateX(50px)}
+    70%    {transform: translateX(0px)}
+    100%   {transform: translateX(0px)} 
+  }
+  
+  #Pupil-R {
+     position: relative;
+      animation-name: pupilMove;
+      animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes pupilMove {
+    0% {transform: translateX(0px)}
+    25% {transform: translateY(4px)}
+    45% {transform: translateX(5px)}
+    65% {transform: translateX(0px)}
+    75% {transform: translateX(10px)}
+    85% {transform: translateY(7px)}
+    95% {transform: translateX(3px)}
+    100% {transform: translateX(0px)}
+  }
+  
+  
+  /*--- END REVENGE ---*/
+  
+  #peck-F {
+      animation-name: felicityPeck;
+      animation-delay: 0s;
+      animation-duration: 8s;
+     animation-iteration-count: infinite;
+    transform-origin: center;
+  }
+  
+  @keyframes felicityPeck {
+      0%   {transform: rotate(0deg)}
+     10%   {transform: rotate(40deg)}
+     45%   {transform: rotate(0deg)}
+     55% {transform: rotate(50deg)}
+    65% {transform: rotate(0deg)}
+    80% {transform: rotate(40deg)}
+    100% {transform: rotate(0deg)}  
+  }
+  
+  #Shadow-F {
+      position: relative;
+      animation-name: shadowMoveF;
+      animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shadowMoveF {
+     0%    {transform: translateX(0px)}
+     10%   {transform: translateX(-40px)}
+     45%   {transform: translateX(0px)}
+     55%   {transform: translateX(-50px)}
+    65%    {transform: translateX(0px)}
+    80%   {transform: translateX(-40px)} 
+    100%   {transform: translateX(0px)} 
+  }
