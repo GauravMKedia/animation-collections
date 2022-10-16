@@ -1,0 +1,67 @@
+body {
+    background: black;
+}
+
+svg {
+    max-height: 100vh;
+}
+
+polygon,
+path {
+    opacity: 1;
+    transition: all 5s ease-in-out;
+    animation: fadein 5s linear;
+}
+
+.cls-1{fill:#9a6d34;}
+.cls-2{fill:#ac8958;}
+.cls-3{fill:#161412;}
+.cls-4{fill:#aeb5aa;}
+.cls-5{fill:#959688;}
+.cls-6{fill:#c2a478;}
+.cls-7{fill:#646254;}
+.cls-8{fill:#7c7a72;}
+.cls-9{fill:#2c2922;}
+.cls-10{fill:#574731;}
+.cls-11{fill:#cdd1ce;}
+.cls-12{fill:#d1bfa1;}
+
+@for $i from 1 through 30 {
+    polygon:nth-child(#{$i}n) {
+        animation-delay: #{$i * 0.5}s;
+    }
+    path:nth-child(#{$i}n) {
+        animation-delay: #{$i * 0.5}s;
+    }
+}
+
+polygon:hover,
+path:hover {
+  animation: rainbow 5s infinite;
+  animation-delay: 0;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+        transform: scale(.1);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+}
+
+@keyframes rainbow {
+    0% {fill: #9a6d34;}
+    10% {fill: #ac8958;}
+    20% {fill: #161412;}
+    30% {fill: #aeb5aa;}
+    40% {fill: #959688;}
+    50% {fill: #959688;}
+    60% {fill: #c2a478;}
+    70% {fill: #646254;}
+    80% {fill: #7c7a72;}
+    90% {fill: #2c2922;}
+    100% {fill: #574731;}
+}
