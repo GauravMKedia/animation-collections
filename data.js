@@ -122,10 +122,10 @@ let animtaionData = [
         AnimationURL: "./animations/simple_loader/simple_loader.html",
     },
     {
-        ContributorName: 'Arpit Agrawal',
-        ContributorURL: "https://github.com/techie-arpit",
-        AnimationGif: 'https://i.imgur.com/lKB3yf2.gif',
-        AnimationURL: "/animations/Arpit/Bird.html",
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/4q3JGMy.gif',
+        AnimationURL: "/animations/Pratik Agrawal/animation-letters.html",
     },
     {
         ContributorName: 'Arpit Agrawal',
