@@ -1,0 +1,41 @@
+body {
+    background-color:#A7CEF9;
+  }
+  
+  .main {
+    width: 800px;
+  }
+  
+  /* LUNA & NOVA ANIMATIONS */
+  #Luna-Tail {
+      animation-name: lunaWag;
+      animation-delay: 0s;
+      animation-duration: 5s;
+     animation-iteration-count: infinite;
+    transform-origin: bottom right;
+  }
+  
+  @keyframes lunaWag {
+      0%   {transform: rotate(0deg)}
+     25%   {transform: rotate(20deg)}
+     50%   {transform: rotate(-10deg)}
+     75% {transform: rotate(20deg)}
+    100% {transform: rotate(0deg)}  
+  }
+  
+  #Nova-Tail {
+      animation-name: novaWag;
+      animation-delay: 0s;
+      animation-duration: 3s;
+     animation-iteration-count: infinite;
+    transform-origin: bottom left;
+  }
+  
+  @keyframes novaWag {
+      0%   {transform: rotate(0deg)}
+     20%   {transform: rotate(-20deg)}
+     55%   {transform: rotate(0deg)}
+     80% {transform: rotate(-20deg)}
+    100% {transform: rotate(0deg)}  
+  }
+  

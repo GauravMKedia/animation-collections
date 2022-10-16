@@ -181,6 +181,12 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/clA8zge.gif',
         AnimationURL: "./animations/Hen/hen.html",
     },
+    {
+        ContributorName: 'Arpit Agrawal',
+        ContributorURL: "https://github.com/techie-arpit",
+        AnimationGif: 'https://i.imgur.com/Rb9PRQr.gif',
+        AnimationURL: "./animations/Dogs/Dogs.html",
+    },
     
 ]
 
