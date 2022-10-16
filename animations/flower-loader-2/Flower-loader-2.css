@@ -1,0 +1,32 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+svg {
+	max-width: 25rem;
+	width: 100%;
+	height: auto;
+}
+
+.masking {
+	transform: scale(0);
+	transform-origin: 50% 50%;
+	animation: scale 4s linear infinite;
+	will-change: transform;
+}
+
+@keyframes scale {
+	
+	0%, 50% {
+		opacity: 1;
+	}
+	
+	100% {
+		transform: scale(1.25);
+		opacity: 0;
+	}	
+	
+}
