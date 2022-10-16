@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+body {
+background: #222;
+height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  font-family: 'Noto Color Emoji', sans-serif;
+}
+p {
+  color: grey;
+  position: absolute;
+  bottom: 0;
+  font-weight: 100;
+  font-size: small;
+}
+a {
+  color: grey;
+}
+.cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #00000095;
+      }
+
+      .cls-12, .cls-16, .cls-3 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #681b01;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-9 {
+        fill: #927d62;
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-11, .cls-16 {
+        fill: #ffa209;
+      }
+
+      .cls-12, .cls-16 {
+        opacity: 0.5;
+      }
+
+      .cls-13 {
+        fill: #f0a173;
+      }
+
+      .cls-14 {
+        fill: #681a0a;
+      }
+
+      .cls-15 {
+        fill: #f8a210;
+}
+svg.pumpkinio {
+  width: 60%;
+  position: relative;
+  margin-top: 20%;
+}
+.cls-4 {
+  animation: wings1 3s infinite linear;
+}
+.cls-7 {
+  animation: wings2 3s infinite linear;
+}
+@keyframes wings1 {
+  50% {
+    transform: rotate(-20deg) translateY(-3%);
+  }
+}
+
+@keyframes wings2 {
+  50% {
+    transform: rotate(-3deg) translateY(-3%);
+  }
+}
+.pumpkin {
+  animation: jump 2s infinite linear;
+}
+@keyframes jump {
+  50% {
+    transform: translateY(-10%) scaleY(1.05) rotate(-3deg);
+  }
+}
+
+.cls-3 {
+  animation: shadow 2s infinite linear;
+}
+@keyframes shadow {
+  50% {transform: scaleX(0.9) translateX(10%);}
+}
+svg.bgsvg {
+  position: absolute;
+  width: 200%;
+  bottom: -50%;
+  opacity: .5;
+  animation: bg 60s infinite linear;
+  z-index: -1;
+}
+@keyframes bg {
+  50% {width: 100%;
+  bottom: -20%;
+  }
+}
+svg.bgsvg path {
+  animation: mooove 3s infinite linear;
+}
+@keyframes mooove {
+  50% {
+    transform: rotate(-3deg);
+  }
+}
+.boo {
+  position: absolute;
+  left:0;
+  right:0;
+  margin: auto;
+  width:60%;
+  text-align: center;
+  height:fit-content;
+  bottom:0;
+  top:0;
+  z-index: 0;
+  font-size: 8vw;
+  
+}
+.boo span {
+  display: inline-block;
+  text-shadow: 0px 0px 0px white;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+.boo span:nth-child(1){
+  animation-name: booleft;
+}
+.boo span:nth-child(2){
+  animation-name: booleft;
+  animation-delay: .3s;
+}
+.boo span:nth-child(3){
+  animation-name: booight;
+  animation-delay: .6s;
+}
+.boo span:nth-child(4){
+  animation-name: booleft;
+  animation-delay: .8s;
+}
+.boo span:nth-child(5){
+  animation-name: booight;
+  animation-delay: 1s;
+}
+.boo span:nth-child(6){
+  animation-name: booight;
+  animation-delay: 1.3s;
+}
+.boo span:nth-child(7){
+  animation-name: booleft;
+  animation-delay: 1.6s;
+}
+.boo span:nth-child(8){
+  animation-name: booight;
+  animation-delay: 2s;
+}
+.boo span:nth-child(9){
+  animation-name: booight;
+  animation-delay: 2.3s;
+}
+@keyframes booleft{
+  50% {transform: skew(50deg) translateY(-200%);
+      text-shadow: 0px 0px 50px;
+        opacity: 0;
+  }
+}
+@keyframes booight{
+  50% {transform: skew(-50deg) translateY(-200%);
+      text-shadow: 0px 0px 50px;
+        opacity: 0;
+  }
+}
+.cls-14 {
+  animation: eyes 2s infinite;
+}
+@keyframes eyes {
+  50%{transform: scaleY(0.9)}
+}
+.cls-15 {
+  animation: tooth 2s infinite;
+}
+@keyframes tooth {
+  50% {transform: translateY(-8%)}
+}

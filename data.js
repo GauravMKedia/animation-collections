@@ -176,6 +176,12 @@ let animtaionData = [
         AnimationURL: "./animations/Hen/hen.html",
     },
     {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/MCtOmCn.gif',
+        AnimationURL: "./animations/Pumpkin/pumpkin.html",
+    },
+    {   
         ContributorName: 'Shivansh Patel',
         ContributorURL: "https://github.com/patel-shivansh",
         AnimationGif: 'https://i.imgur.com/cDW4bFV.gif',
@@ -199,6 +205,5 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/Rb9PRQr.gif',
         AnimationURL: "./animations/Dogs/Dogs.html",
      },
-    
 ]
 
