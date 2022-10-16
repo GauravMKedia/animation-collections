@@ -1,0 +1,106 @@
+.container {
+	background-color: #000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	padding: 0 1rem;
+}
+
+svg {
+	max-width: 50rem;
+	width: 100%;
+	height: auto;
+	padding: 3rem 0;
+}
+
+#letter-i {
+	transform-origin: 50% 100%;
+	animation: bounce 2s infinite ease-in-out;
+}
+
+#letter-ii {
+	transform-origin: 50% 100%;
+	animation: bounce 2s 0.5s infinite ease-in-out;
+}
+
+#letter-o {
+	transform-origin: 445.5px 50%;
+	animation: spin 4s infinite ease-in-out alternate;
+}
+
+#letter-a {
+	animation: flash 1.5s infinite;
+}
+
+#letter-aa {
+	animation: flash 1s 1s infinite;
+}
+
+@keyframes bounce {
+	
+	10% {
+		transform: scaleY(0.8);
+	}
+	
+	25%, 26% {
+		transform: translateY(-24px) scaleY(1.001);
+	}
+	
+	35% {
+		transform: translateY(0) scaleY(0.999);
+	}
+	
+	50% {
+		transform: scaleY(0.9);
+	}
+	
+	70% {
+		transform: scaleY(1);
+	}
+	
+}
+
+@keyframes spin {
+	
+	25% {
+		transform: rotate(360deg);
+	}
+	
+	50% {
+		transform: rotate(270deg);
+	}
+	
+	90% {
+		transform: rotate(1080deg);
+	}
+	
+	100% {
+		transform: rotate(1050deg);
+	}
+	
+}
+
+@keyframes flash {
+	
+	25% {
+		opacity: 1;
+	}
+	
+	27% {
+		opacity: 0.4;
+	}
+	
+	29% {
+		opacity: 1;
+	}
+	
+	31% {
+		opacity: 0.4;
+	}
+	
+	75% {
+		opacity: 1;
+	}
+	
+}
