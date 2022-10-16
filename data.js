@@ -204,6 +204,12 @@ let animtaionData = [
         ContributorURL: "https://github.com/techie-arpit",
         AnimationGif: 'https://i.imgur.com/Rb9PRQr.gif',
         AnimationURL: "./animations/Dogs/Dogs.html",
-     },
+    },
+    {   
+        ContributorName: 'Shivansh Patel',
+        ContributorURL: "https://github.com/patel-shivansh",
+        AnimationGif: 'https://i.imgur.com/Kw4b511.gif',
+        AnimationURL: "./animations/SVG-letter/svg-letter.htm",
+    }, 
 ]
 
