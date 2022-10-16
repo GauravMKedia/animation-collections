@@ -169,12 +169,6 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/ZJzeGR5.gif',
         AnimationURL: "./animations/Ghost/ghost.html",
     },
-    
-    
-    
-    
-    
-    
     {
         ContributorName: 'Pratik Agrawal',
         ContributorURL: "https://github.com/RudraPratik30",
@@ -186,7 +180,19 @@ let animtaionData = [
         ContributorURL: "https://github.com/patel-shivansh",
         AnimationGif: 'https://i.imgur.com/cDW4bFV.gif',
         AnimationURL: "./animations/Cute-Cupcake/Cute-Cupcake.html",
+     },
+     {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/XppZLWQ.gif',
+        AnimationURL: "./animations/Cat/Cat.html",
     },
+    {
+        ContributorName: 'Arpit Agrawal',
+        ContributorURL: "https://github.com/techie-arpit",
+        AnimationGif: 'https://i.imgur.com/Rb9PRQr.gif',
+        AnimationURL: "./animations/Dogs/Dogs.html",
+     },
     
 ]
 
