@@ -169,17 +169,17 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/ZJzeGR5.gif',
         AnimationURL: "./animations/Ghost/ghost.html",
     },
-    
-    
-    
-    
-    
-    
     {
         ContributorName: 'Pratik Agrawal',
         ContributorURL: "https://github.com/RudraPratik30",
         AnimationGif: 'https://i.imgur.com/clA8zge.gif',
         AnimationURL: "./animations/Hen/hen.html",
+    },
+    {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/XppZLWQ.gif',
+        AnimationURL: "./animations/Cat/Cat.html",
     },
     {
         ContributorName: 'Arpit Agrawal',
