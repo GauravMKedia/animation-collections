@@ -1,0 +1,96 @@
+body {
+    background-color: #edd3e5;
+  }
+  
+  p {
+    font-family: "Vibur", cursive;
+    font-size: 10em;
+  }
+  
+  .container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 0;
+    position: relative;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  @keyframes sparkle {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @keyframes dance {
+    100% {
+      transform: rotate(1deg);
+    }
+  }
+  
+  .eye {
+    animation: dance 2s infinite alternate;
+  }
+  
+  .sparkle {
+    z-index: 10000;
+    position: relative;
+    right: -10px;
+    top: 20px;
+  }
+  
+  .sparkle2 {
+    z-index: 10000;
+    position: relative;
+    right: -10px;
+    top: 20px;
+  }
+  
+  .sparkle > svg {
+    animation-name: sparkle;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  
+  .sparkle2 > svg {
+    animation-name: sparkle;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  
+  .sparkle svg:nth-child(1) {
+    animation-delay: 0.5s;
+  }
+  .sparkle svg:nth-child(2) {
+    animation-delay: 1s;
+  }
+  .sparkle svg:nth-child(3) {
+    animation-delay: 1.5s;
+  }
+  
+  .sparkle2 svg:nth-child(1) {
+    animation-delay: 0.5s;
+  }
+  .sparkle2 svg:nth-child(2) {
+    animation-delay: 1s;
+  }
+  .sparkle2 svg:nth-child(3) {
+    animation-delay: 1.5s;
+  }
+  
+  .sparkle2 {
+    z-index: 10000;
+    position: relative;
+    right: 10px;
+    top: 80px;
+  }
+  

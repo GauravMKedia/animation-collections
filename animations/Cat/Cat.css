@@ -1,0 +1,83 @@
+/* DEX ANIMATION */
+
+body {
+    background-color:#FFF4A4;
+  }
+  
+  .main {
+    width: 800px;
+  }
+  
+  #Cart-1 {
+      animation-name: cartFall;
+      animation-delay: 0s;
+      animation-duration: 20s;
+    transform-origin: center;
+  animation-fill-mode: forwards;
+       animation-iteration-count: infinite;
+  
+  }
+  
+  @keyframes cartFall {
+      0%   {transform: translateY(-100px); opacity:0}
+     10%   {transform: translateY(0px); opacity:1;}
+    89%     {transform: translateY(0px); opacity:1;}
+    90%      {transform: translateY(0px); opacity:0;}
+      100%   {transform: translateY(0px); opacity:0;}
+  
+  
+  }
+  
+  #Cart-2 {
+      animation-name: cartFall;
+      animation-delay: 1s;
+      animation-duration: 20s;
+    transform-origin: center;
+    animation-fill-mode: forwards;
+    opacity:0;
+     animation-iteration-count: infinite;
+  }
+  
+  
+  #Cart-3 {
+      animation-name: cartFall;
+      animation-delay: 2s;
+      animation-duration: 20s;
+    transform-origin: center;
+    animation-fill-mode: forwards;
+    opacity:0;
+       animation-iteration-count: infinite;
+  }
+  
+  
+  #Left-Pupil, #Right-Pupil {
+     position: relative;
+      animation-name: pupilMove;
+      animation-duration: 8s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes pupilMove {
+    0% {transform: translateX(0px)}
+    25% {transform: translateY(4px)}
+    45% {transform: translateX(-5px)}
+    65% {transform: translateX(0px)}
+    75% {transform: translateX(-10px)}
+    85% {transform: translateY(7px)}
+    95% {transform: translateX(-3px)}
+    100% {transform: translateX(0px)}
+  }
+  
+  #Tail {
+      animation-name: tailMove;
+      transform-origin: bottom left;
+      animation-delay: 0s;
+      animation-duration: 14s;
+     animation-iteration-count: infinite;
+  }
+  
+  @keyframes tailMove {
+      0%   {transform: rotate(0deg)}
+     50%   {transform: rotate(-20deg)}
+    100%   {transform: rotate(0deg)}
+  }
