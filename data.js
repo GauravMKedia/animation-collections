@@ -163,6 +163,12 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/ewMT9UJ.gif',
         AnimationURL: "./animations/flower-loader-2/flower-loader-2.html",
     },
+    {
+        ContributorName: 'Arpit Agrawal',
+        ContributorURL: "https://github.com/techie-arpit",
+        AnimationGif: 'https://i.imgur.com/ZJzeGR5.gif',
+        AnimationURL: "./animations/Ghost/ghost.html",
+    },
     
 ]
 
