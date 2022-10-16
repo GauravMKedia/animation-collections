@@ -128,10 +128,22 @@ let animtaionData = [
         AnimationURL: "./animations/Pratik Agrawal/animation-letters.html",
     },
     {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/ihTfkR1.gif',
+        AnimationURL: "./animations/Pratik Agrawal/Clock.html",
+    },
+    {
         ContributorName: 'Arpit Agrawal',
         ContributorURL: "https://github.com/techie-arpit",
         AnimationGif: 'https://i.imgur.com/lKB3yf2.gif',
         AnimationURL: "./animations/Arpit/Bird.html",
+    },
+    {
+        ContributorName: 'Smruti Agrawal',
+        ContributorURL: "https://github.com/smritiagrawall",
+        AnimationGif: "https://i.imgur.com/ZeQQNqx.gif",
+        AnimationURL: "/animations/Smriti/tiger.html",
     },
     {
         ContributorName: 'Arpit Agrawal',
@@ -140,11 +152,17 @@ let animtaionData = [
         AnimationURL: "./animations/Rocket/Rocket.html",
     },
     {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/LNU1mtR.gif',
+        AnimationURL: "./animations/Flower-loader-1/Flower-loader-1.html",
+    },
+    {
         ContributorName: 'Arpit Agrawal',
         ContributorURL: "https://github.com/techie-arpit",
         AnimationGif: 'https://i.imgur.com/ewMT9UJ.gif',
         AnimationURL: "./animations/flower-loader-2/flower-loader-2.html",
     },
-   
+    
 ]
 
