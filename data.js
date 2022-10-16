@@ -145,6 +145,12 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/5yBrYbh.gif',
         AnimationURL: "./animations/Rocket/Rocket.html",
     },
+    {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/LNU1mtR.gif',
+        AnimationURL: "./animations/Flower-loader-1/Flower-loader-1.html",
+    },
    
 ]
 
