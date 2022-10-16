@@ -164,5 +164,17 @@ let animtaionData = [
         AnimationURL: "./animations/flower-loader-2/flower-loader-2.html",
     },
     
+    
+    
+    
+    
+    
+    {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/clA8zge.gif',
+        AnimationURL: "./animations/Hen/hen.html",
+    },
+    
 ]
 
