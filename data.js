@@ -127,7 +127,12 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/05fKd4m.gif',
         AnimationURL: "./animations/Pratik Agrawal/animation-letters.html",
     },
-    
+    {
+        ContributorName: 'Pratik Agrawal',
+        ContributorURL: "https://github.com/RudraPratik30",
+        AnimationGif: 'https://i.imgur.com/0Vi3HnV.gif',
+        AnimationURL: "./animations/Pratik Agrawal/Clock.html",
+    },
    
 ]
 
