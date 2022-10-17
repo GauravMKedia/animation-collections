@@ -212,6 +212,12 @@ let animtaionData = [
         AnimationURL: "./animations/SVG-letter/svg-letter.htm",
      },
      {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/orGx8d2.gif',
+        AnimationURL: "./animations/loader-1/loader-1.html",
+     },
+     {
         ContributorName: 'Smruti Agrawal',
         ContributorURL: "https://github.com/smritiagrawall",
         AnimationGif: "https://i.imgur.com/GgXDdtm.gif",
