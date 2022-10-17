@@ -229,5 +229,11 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/kubJGo7.gif",
         AnimationURL: "./animations/circle-wave/index.html",
     },
+    {
+        ContributorName: 'Smruti Agrawal',
+        ContributorURL: "https://github.com/smritiagrawall",
+        AnimationGif: "https://i.imgur.com/KybO9t0.gif",
+        AnimationURL: "/animations/Smriti/Hover.html",
+    },
 ]
 
