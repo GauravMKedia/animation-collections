@@ -210,6 +210,12 @@ let animtaionData = [
         ContributorURL: "https://github.com/patel-shivansh",
         AnimationGif: 'https://i.imgur.com/Kw4b511.gif',
         AnimationURL: "./animations/SVG-letter/svg-letter.htm",
-    }, 
+     },
+     {
+        ContributorName: 'Smruti Agrawal',
+        ContributorURL: "https://github.com/smritiagrawall",
+        AnimationGif: "https://i.imgur.com/GgXDdtm.gif",
+        AnimationURL: "./animations/Paper-plane/paper-plane.html",
+    },
 ]
 
