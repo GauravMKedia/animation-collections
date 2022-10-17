@@ -151,5 +151,11 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/ZeQQNqx.gif",
         AnimationURL: "/animations/Smriti/tiger.html",
     },
+    {
+        ContributorName: 'Smruti Agrawal',
+        ContributorURL: "https://github.com/smritiagrawall",
+        AnimationGif: "https://i.imgur.com/KybO9t0.gif",
+        AnimationURL: "/animations/Smriti/Hover.html",
+    },
 ]
 
