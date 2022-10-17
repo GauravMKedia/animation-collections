@@ -1,0 +1,128 @@
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
+
+#g-usetag{
+	stroke:#F2385A;
+	animation: gstrokeanim 2s infinite linear;
+}
+@keyframes gstrokeanim {
+	0%{stroke-width: 6;}
+	50%{stroke-width: 0;}
+	100%{stroke-width: 6;}
+	
+}
+
+
+.text {
+	
+  fill: none;
+  stroke-width: 6;
+  stroke-linejoin: round;
+  stroke-dasharray: 70 330;
+  stroke-dashoffset: 0;
+-webkit-animation: stroke 6s infinite linear;
+  animation: stroke 6s infinite linear;
+}
+
+.text:nth-child(5n + 1) {
+  stroke: #F2385A;
+  -webkit-animation-delay: -1.2s;
+  animation-delay: -1.2s;
+}
+
+.text:nth-child(5n + 2) {
+  stroke: #F5A503;
+  -webkit-animation-delay: -2.4s;
+  animation-delay: -2.4s;
+}
+
+.text:nth-child(5n + 3) {
+  stroke: #E9F1DF;
+  -webkit-animation-delay: -3.6s;
+  animation-delay: -3.6s;
+}
+
+.text:nth-child(5n + 4) {
+  stroke: #56D9CD;
+  -webkit-animation-delay: -4.8s;
+  animation-delay: -4.8s;
+}
+
+.text:nth-child(5n + 5) {
+  stroke: #3AA1BF;
+  -webkit-animation-delay: -6s;
+  animation-delay: -6s;
+}
+
+
+@-webkit-keyframes stroke {
+  100% {
+    stroke-dashoffset: -400;
+  }
+}
+
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: -400;
+  }
+}
+
+/*////////////////////v animation//////////////////*/
+
+.text1 {
+	
+  fill: none;
+  
+  stroke-linejoin: round;
+  stroke-dasharray:1160;
+  stroke-dashoffset: 1160;
+	-webkit-animation: vstroke 6s infinite linear;
+  animation: vstroke 6s infinite ease-in-out;
+
+}
+.text1:nth-child(3n+3){
+	stroke-width: 4;
+	stroke: #3AA1BF;
+	-webkit-animation-delay: 0s;
+  animation-delay: 00s;
+}
+.text1:nth-child(3n+1){
+	stroke: yellow;
+	stroke-width: 1;
+	-webkit-animation-delay: .2s;
+  animation-delay: -.2s;
+}
+.text1:nth-child(3n+2){
+	stroke: red;
+	stroke-width: 2;
+	-webkit-animation-delay: -.1s;
+  animation-delay: -.1s;
+}
+
+
+@keyframes vstroke {
+	100%{stroke-dashoffset:0;}
+}
+
+
+
+/*///////////////// Other styles /////////////////////////*/
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #212121;
+  background-size: .2em 100%;
+  font: 14.5em/1 Open Sans, Impact;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
