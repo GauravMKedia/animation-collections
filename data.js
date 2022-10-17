@@ -223,5 +223,11 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/GgXDdtm.gif",
         AnimationURL: "./animations/Paper-plane/paper-plane.html",
     },
+    {
+        ContributorName: 'Gunali Rezqi Mauludi',
+        ContributorURL: "https://github.com/gunalirezqimauludi",
+        AnimationGif: "https://i.imgur.com/kubJGo7.gif",
+        AnimationURL: "./animations/circle-wave/index.html",
+    },
 ]
 
