@@ -235,5 +235,11 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/KybO9t0.gif",
         AnimationURL: "/animations/Smriti/Hover.html",
     },
+    {   
+        ContributorName: 'Shivansh Patel',
+        ContributorURL: "https://github.com/patel-shivansh",
+        AnimationGif: 'https://i.imgur.com/Lp1uMAI.gif',
+        AnimationURL: "./animations/coffee-mug/coffee-mug.html",
+    },
 ]
 
