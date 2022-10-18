@@ -240,6 +240,18 @@ let animtaionData = [
         ContributorURL: "https://github.com/Divyo-Singh",
         AnimationGif: "https://i.imgur.com/QK1G292.gif",
         AnimationURL: "/animations/code.divyo/code.divyo.html",
+     },
+     {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/GoXOhHo.gif',
+        AnimationURL: "./animations/Pigeon/pigeon.html",
+    },
+    {   
+        ContributorName: 'Shivansh Patel',
+        ContributorURL: "https://github.com/patel-shivansh",
+        AnimationGif: 'https://i.imgur.com/Lp1uMAI.gif',
+        AnimationURL: "./animations/coffee-mug/coffee-mug.html",
     },
 ]
 
