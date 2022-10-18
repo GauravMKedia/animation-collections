@@ -259,5 +259,11 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/6LXslWv.gif',
         AnimationURL: "./animations/hey-card/hey-card.html",
     },
+    {   
+        ContributorName: 'Shivansh Patel',
+        ContributorURL: "https://github.com/patel-shivansh",
+        AnimationGif: 'https://i.imgur.com/VwZ44CJ.gif',
+        AnimationURL: "./animations/Coder/coder.html",
+    },
 ]
 
