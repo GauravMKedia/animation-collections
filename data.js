@@ -235,6 +235,12 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/KybO9t0.gif",
         AnimationURL: "/animations/Smriti/Hover.html",
     },
+    {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/GoXOhHo.gif',
+        AnimationURL: "./animations/Pigeon/pigeon.html",
+    },
     {   
         ContributorName: 'Shivansh Patel',
         ContributorURL: "https://github.com/patel-shivansh",
