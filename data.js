@@ -253,6 +253,12 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/Lp1uMAI.gif',
         AnimationURL: "./animations/coffee-mug/coffee-mug.html",
     },
+    {   
+        ContributorName: 'Adithi Desai',
+        ContributorURL: "https://github.com/AdithiDesai",
+        AnimationGif: 'https://i.imgur.com/4RW6QzD.gif',
+        AnimationURL: "./animations/Cube/cubehtml.html",
+    },
     {
         ContributorName: 'Divyanshi Singh',
         ContributorURL: "https://github.com/Divyo-Singh",
