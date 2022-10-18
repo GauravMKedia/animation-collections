@@ -241,7 +241,7 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/QK1G292.gif",
         AnimationURL: "/animations/code.divyo/code.divyo.html",
      },
-     {
+    {
         ContributorName: 'Ritik Sharma',
         ContributorURL: "https://github.com/coder-ritik",
         AnimationGif: 'https://i.imgur.com/GoXOhHo.gif',
@@ -259,6 +259,23 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/4RW6QzD.gif',
         AnimationURL: "./animations/Cube/cubehtml.html",
     },
-
+    {
+        ContributorName: 'Divyanshi Singh',
+        ContributorURL: "https://github.com/Divyo-Singh",
+        AnimationGif: "https://i.imgur.com/LWRYOvu.gif",
+        AnimationURL: "/animations/water-heart <3/water-heart.html",
+     },
+     {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/6LXslWv.gif',
+        AnimationURL: "./animations/hey-card/hey-card.html",
+    },
+    {   
+        ContributorName: 'Shivansh Patel',
+        ContributorURL: "https://github.com/patel-shivansh",
+        AnimationGif: 'https://i.imgur.com/VwZ44CJ.gif',
+        AnimationURL: "./animations/Coder/coder.html",
+    },
 ]
 
