@@ -8,7 +8,6 @@ let animtaionData = [
         AnimationGif: 'Your Animation GIF file link',
         AnimationURL: "Your Animation Folder HTML file address",
     },
-
     */ 
     
     {
@@ -277,5 +276,10 @@ let animtaionData = [
         AnimationGif: 'https://i.imgur.com/VwZ44CJ.gif',
         AnimationURL: "./animations/Coder/coder.html",
     },
+    {
+    ContributorName: "Harsheet Chordiya",
+    ContributorURL: "https://github.com/Harsheet196",
+    AnimationGif: "https://i.imgur.com/sbEtPlA.gif",
+    AnimationURL: "./animations/Checker-Board_Reveal",
+    },
 ]
-
