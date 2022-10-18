@@ -241,7 +241,7 @@ let animtaionData = [
         AnimationGif: "https://i.imgur.com/QK1G292.gif",
         AnimationURL: "/animations/code.divyo/code.divyo.html",
      },
-     {
+    {
         ContributorName: 'Ritik Sharma',
         ContributorURL: "https://github.com/coder-ritik",
         AnimationGif: 'https://i.imgur.com/GoXOhHo.gif',
@@ -252,6 +252,12 @@ let animtaionData = [
         ContributorURL: "https://github.com/patel-shivansh",
         AnimationGif: 'https://i.imgur.com/Lp1uMAI.gif',
         AnimationURL: "./animations/coffee-mug/coffee-mug.html",
+    },
+    {
+        ContributorName: 'Ritik Sharma',
+        ContributorURL: "https://github.com/coder-ritik",
+        AnimationGif: 'https://i.imgur.com/6LXslWv.gif',
+        AnimationURL: "./animations/hey-card/hey-card.html",
     },
 ]
 
