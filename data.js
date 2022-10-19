@@ -287,4 +287,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/znlGDHi.gif",
     AnimationURL: "./animations/welcome_loader",
   },
+  {
+    ContributorName: "Divyanshi Singh",
+    ContributorURL: "https://github.com/Divyo-Singh",
+    AnimationGif: "https://i.imgur.com/CdBGoJo.gif",
+    AnimationURL: "/animations/heart-ani/heart-ani.html",
+  },
 ];
