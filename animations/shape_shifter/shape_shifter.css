@@ -1,0 +1,61 @@
+body {
+	background-color: whitesmoke;
+	height: 100vh;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+button {
+	width: 100px;
+	height: 35px;
+	background-color: black;
+	font-weight: bold;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+header {
+	position: fixed;
+	top: 0;
+	background: #000;
+	color: #fff;
+	display: block;
+	width: 100%;
+}
+h1 {
+	text-align: center;
+}
+#container {
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+    margin-top: 300px;
+}
+
+ 
+#eighth {
+	width: 80px;
+	height: 80px;
+	animation: shapeshift 2s ease-in-out infinite;
+}
+
+@keyframes shapeshift {
+	0% {
+		border-radius: 50%;
+	}
+	25% {
+		border-radius: 17%;
+	}
+	50% {
+		border-radius: 34%;
+	}
+
+	100% {
+		border-radius: 50%;
+	}
+}

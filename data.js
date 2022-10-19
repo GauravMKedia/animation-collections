@@ -299,4 +299,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/fiQZpws.gif",
     AnimationURL: "/animations/hourglass",
   },
+  {
+    ContributorName: "Sarvesh Vyas",
+    ContributorURL: "https://github.com/git-svyas",
+    AnimationGif: "https://i.imgur.com/rv0R3wD.gif",
+    AnimationURL: "/animations/shape_shifter",
+  },
 ];
