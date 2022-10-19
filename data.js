@@ -305,4 +305,11 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/rv0R3wD.gif",
     AnimationURL: "/animations/shape_shifter",
   },
+  {
+    ContributorName: "Pranav Mohgaonkar",
+    ContributorURL: "https://github.com/gitPranav09",
+    AnimationGif: "https://i.imgur.com/behqtxH.gif",
+    AnimationURL: "./animations/background_bubble_animation",
+  },
+
 ];
