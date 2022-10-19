@@ -311,5 +311,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/behqtxH.gif",
     AnimationURL: "./animations/background_bubble_animation",
   },
-
+  {
+    ContributorName: "Sarvesh Vyas",
+    ContributorURL: "https://github.com/git-svyas",
+    AnimationGif: "https://i.imgur.com/F9e4mc3.gif",
+    AnimationURL: "/animations/sliding_load1",
+  },
 ];
