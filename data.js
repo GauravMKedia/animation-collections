@@ -14,8 +14,7 @@ let animtaionData = [
     ContributorName: "Gaurav Kedia",
     ContributorURL: "https://github.com/GauravMKedia",
     AnimationGif: "https://i.imgur.com/cA9gCiT.gif",
-    AnimationURL:
-      "./animations/Text-Animation/Bouncing_With_Reflection/Bouncing_Text.html",
+    AnimationURL:"./animations/Text-Animation/Bouncing_With_Reflection/Bouncing_Text.html",
   },
   {
     ContributorName: "Madhav Jha",
@@ -231,13 +230,13 @@ let animtaionData = [
     ContributorName: "Smruti Agrawal",
     ContributorURL: "https://github.com/smritiagrawall",
     AnimationGif: "https://i.imgur.com/KybO9t0.gif",
-    AnimationURL: "/animations/Smriti/Hover.html",
+    AnimationURL: "./animations/Smriti/Hover.html",
   },
   {
     ContributorName: "Divyanshi Singh",
     ContributorURL: "https://github.com/Divyo-Singh",
     AnimationGif: "https://i.imgur.com/QK1G292.gif",
-    AnimationURL: "/animations/code.divyo/code.divyo.html",
+    AnimationURL: "./animations/code.divyo/code.divyo.html",
   },
   {
     ContributorName: "Ritik Sharma",
@@ -261,7 +260,7 @@ let animtaionData = [
     ContributorName: "Divyanshi Singh",
     ContributorURL: "https://github.com/Divyo-Singh",
     AnimationGif: "https://i.imgur.com/LWRYOvu.gif",
-    AnimationURL: "/animations/water-heart <3/water-heart.html",
+    AnimationURL: "./animations/water-heart <3/water-heart.html",
   },
   {
     ContributorName: "Ritik Sharma",
@@ -291,19 +290,19 @@ let animtaionData = [
     ContributorName: "Divyanshi Singh",
     ContributorURL: "https://github.com/Divyo-Singh",
     AnimationGif: "https://i.imgur.com/CdBGoJo.gif",
-    AnimationURL: "/animations/heart-ani/heart-ani.html",
+    AnimationURL: "./animations/heart-ani/heart-ani.html",
   },
   {
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/fiQZpws.gif",
-    AnimationURL: "/animations/hourglass",
+    AnimationURL: "./animations/hourglass",
   },
   {
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/rv0R3wD.gif",
-    AnimationURL: "/animations/shape_shifter",
+    AnimationURL: "./animations/shape_shifter",
   },
   {
     ContributorName: "Pranav Mohgaonkar",
@@ -315,12 +314,12 @@ let animtaionData = [
     ContributorName: "Divyanshi Singh",
     ContributorURL: "https://github.com/Divyo-Singh",
     AnimationGif: "https://i.imgur.com/uqwkUXN.gif",
-    AnimationURL: "/animations/code_divyanshi/code_divyanshi.html",
+    AnimationURL: "./animations/code_divyanshi/code_divyanshi.html",
   },
   {
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/F9e4mc3.gif",
-    AnimationURL: "/animations/sliding_load1",
+    AnimationURL: "./animations/sliding_load1",
   },
 ];
