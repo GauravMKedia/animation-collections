@@ -293,4 +293,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/CdBGoJo.gif",
     AnimationURL: "/animations/heart-ani/heart-ani.html",
   },
+  {
+    ContributorName: "Sarvesh Vyas",
+    ContributorURL: "https://github.com/git-svyas",
+    AnimationGif: "https://i.imgur.com/fiQZpws.gif",
+    AnimationURL: "/animations/hourglass",
+  },
 ];
