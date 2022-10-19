@@ -311,5 +311,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/behqtxH.gif",
     AnimationURL: "./animations/background_bubble_animation",
   },
-
+  {
+    ContributorName: "Divyanshi Singh",
+    ContributorURL: "https://github.com/Divyo-Singh",
+    AnimationGif: "https://i.imgur.com/uqwkUXN.gif",
+    AnimationURL: "/animations/code_divyanshi/code_divyanshi.html",
+  },
 ];
