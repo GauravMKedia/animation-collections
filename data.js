@@ -317,4 +317,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/uqwkUXN.gif",
     AnimationURL: "/animations/code_divyanshi/code_divyanshi.html",
   },
+  {
+    ContributorName: "Sarvesh Vyas",
+    ContributorURL: "https://github.com/git-svyas",
+    AnimationGif: "https://i.imgur.com/F9e4mc3.gif",
+    AnimationURL: "/animations/sliding_load1",
+  },
 ];
