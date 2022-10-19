@@ -323,4 +323,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/F9e4mc3.gif",
     AnimationURL: "/animations/sliding_load1",
   },
+   {
+        ContributorName: 'Abhishek Kumar',
+        ContributorURL: "https://github.com/Divyo-Singh",
+        AnimationGif: "https://imgur.com/t/3d_animation/FsCmqvA",
+        AnimationURL: "/animations/rainbow tunnel",
+     }
 ];
