@@ -346,4 +346,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/OX5gWXl.gif",
     AnimationURL: "./animations/preloader/loader.html",
   },
+  {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/ZVapz09.gif",
+    AnimationURL: "./animations/coffee/coffee.html",
+  },
 ];
