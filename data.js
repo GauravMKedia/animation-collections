@@ -278,13 +278,13 @@ let animtaionData = [
     ContributorName: "Harsheet Chordiya",
     ContributorURL: "https://github.com/Harsheet196",
     AnimationGif: "https://i.imgur.com/sbEtPlA.gif",
-    AnimationURL: "./animations/Checker-Board_Reveal",
+    AnimationURL: "./animations/Checker-Board_Reveal/main.html",
   },
   {
     ContributorName: "Harsheet Chordiya",
     ContributorURL: "https://github.com/Harsheet196",
     AnimationGif: "https://i.imgur.com/znlGDHi.gif",
-    AnimationURL: "./animations/welcome_loader",
+    AnimationURL: "./animations/welcome_loader/main.html",
   },
   {
     ContributorName: "Divyanshi Singh",
@@ -296,19 +296,19 @@ let animtaionData = [
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/fiQZpws.gif",
-    AnimationURL: "./animations/hourglass",
+    AnimationURL: "./animations/hourglass/hourglass.html",
   },
   {
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/rv0R3wD.gif",
-    AnimationURL: "./animations/shape_shifter",
+    AnimationURL: "./animations/shape_shifter/shape_shifter.html",
   },
   {
     ContributorName: "Pranav Mohgaonkar",
     ContributorURL: "https://github.com/gitPranav09",
     AnimationGif: "https://i.imgur.com/behqtxH.gif",
-    AnimationURL: "./animations/background_bubble_animation",
+    AnimationURL: "./animations/bubble_background_animation/bubble_animation.html",
   },
   {
     ContributorName: "Divyanshi Singh",
@@ -320,6 +320,12 @@ let animtaionData = [
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/F9e4mc3.gif",
-    AnimationURL: "./animations/sliding_load1",
+    AnimationURL: "./animations/sliding_load1/sliding_load1.html",
+  },
+  {
+    ContributorName: "Sarvesh Vyas",
+    ContributorURL: "https://github.com/git-svyas",
+    AnimationGif: "https://i.imgur.com/RW6xXhY.gif",
+    AnimationURL: "./animations/sliding_load2/sliding_load2.html",
   },
 ];
