@@ -340,4 +340,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/KfNbknv.gif",
     AnimationURL: "./animations/Glowing_Loader/glowing.html",
   },
+  {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/OX5gWXl.gif",
+    AnimationURL: "./animations/preloader/loader.html",
+  },
 ];
