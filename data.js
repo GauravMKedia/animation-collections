@@ -328,11 +328,16 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/RW6xXhY.gif",
     AnimationURL: "./animations/sliding_load2/sliding_load2.html",
   },
-
   {
     ContributorName: "Adithi Desai",
     ContributorURL: "https://github.com/AdithiDesai",
     AnimationGif: "https://i.imgur.com/YXCeYnf.gif",
     AnimationURL: "./animations/orange-load/orangehtml.html",
+  },
+  {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/KfNbknv.gif",
+    AnimationURL: "./animations/Glowing_Loader/glowing.html",
   },
 ];
