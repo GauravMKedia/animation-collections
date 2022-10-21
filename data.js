@@ -143,6 +143,12 @@ let animtaionData = [
     AnimationURL: "./animations/Smriti/tiger.html",
   },
   {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/KfNbknv.gif",
+    AnimationURL: "./animations/Glowing_Loader/glowing.html",
+  },
+  {
     ContributorName: "Arpit Agrawal",
     ContributorURL: "https://github.com/techie-arpit",
     AnimationGif: "https://i.imgur.com/5yBrYbh.gif",
@@ -231,6 +237,12 @@ let animtaionData = [
     ContributorURL: "https://github.com/smritiagrawall",
     AnimationGif: "https://i.imgur.com/KybO9t0.gif",
     AnimationURL: "./animations/Smriti/Hover.html",
+  },
+  {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/OX5gWXl.gif",
+    AnimationURL: "./animations/preloader/loader.html",
   },
   {
     ContributorName: "Divyanshi Singh",
@@ -323,6 +335,12 @@ let animtaionData = [
     AnimationURL: "./animations/sliding_load1/sliding_load1.html",
   },
   {
+    ContributorName: "Rohit Chandak",
+    ContributorURL: "https://github.com/chandakrohit8",
+    AnimationGif: "https://i.imgur.com/1vrbfRM.gif",
+    AnimationURL: "./animations/loadingofftrack/offtrack.html",
+  },
+  {
     ContributorName: "Sarvesh Vyas",
     ContributorURL: "https://github.com/git-svyas",
     AnimationGif: "https://i.imgur.com/RW6xXhY.gif",
@@ -333,18 +351,6 @@ let animtaionData = [
     ContributorURL: "https://github.com/AdithiDesai",
     AnimationGif: "https://i.imgur.com/YXCeYnf.gif",
     AnimationURL: "./animations/orange-load/orangehtml.html",
-  },
-  {
-    ContributorName: "Rohit Chandak",
-    ContributorURL: "https://github.com/chandakrohit8",
-    AnimationGif: "https://i.imgur.com/KfNbknv.gif",
-    AnimationURL: "./animations/Glowing_Loader/glowing.html",
-  },
-  {
-    ContributorName: "Rohit Chandak",
-    ContributorURL: "https://github.com/chandakrohit8",
-    AnimationGif: "https://i.imgur.com/OX5gWXl.gif",
-    AnimationURL: "./animations/preloader/loader.html",
   },
   {
     ContributorName: "Rohit Chandak",
