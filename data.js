@@ -358,4 +358,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/ZVapz09.gif",
     AnimationURL: "./animations/coffee/coffee.html",
   },
+   {
+    ContributorName: "Chirag Lalwani",
+    ContributorURL: "https://github.com/Chirag-01",
+    AnimationGif: "https://i.imgur.com/cdPCE2O.gif",
+    AnimationURL: "./animations/Water/index.html",
+  },
 ];
