@@ -366,4 +366,10 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/QbMdG5S.gif',
     AnimationURL: './animations/Infinity/infinity.html',
   },
+  {
+    ContributorName: 'Tanish Agrawal',
+    ContributorURL: 'https://github.com/Tanish1508',
+    AnimationGif: 'https://i.imgur.com/E3zRWjh.gif',
+    AnimationURL: './animations/Infinity/venn.html',
+  },
 ]
