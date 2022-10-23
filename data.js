@@ -366,4 +366,10 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/QbMdG5S.gif',
     AnimationURL: './animations/Infinity/infinity.html',
   },
+  {
+    ContributorName: "Chirag Lalwani",
+    ContributorURL: "https://github.com/Chirag-01",
+    AnimationGif: "https://i.imgur.com/cdPCE2O.gif",
+    AnimationURL: "./animations/Water/index.html",
+  },
 ]
