@@ -378,4 +378,10 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/cdPCE2O.gif",
     AnimationURL: "./animations/Water/index.html",
   },
+  {
+    ContributorName: "Manish Gupta",
+    ContributorURL: "https://github.com/Manishgupta200",
+    AnimationGif: "https://i.imgur.com/RG18XcG.gif",
+    AnimationURL: "./animations/loading-animation/index.html",
+  }
 ]
