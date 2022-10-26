@@ -383,5 +383,11 @@ let animtaionData = [
     ContributorURL: "https://github.com/Manishgupta200",
     AnimationGif: "https://i.imgur.com/RG18XcG.gif",
     AnimationURL: "./animations/loading-animation/index.html",
-  }
+  },
+  {
+    ContributorName: 'Pranav Mohgaonkar',
+    ContributorURL: "https://github.com/gitPranav09",
+    AnimationGif: 'https://i.imgur.com/x06kEZ9.gif',
+    AnimationURL: "./animations/3D_box/box.html",
+},
 ]
