@@ -390,4 +390,11 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/x06kEZ9.gif',
     AnimationURL: "./animations/3D_box/box.html",
 },
+//https://i.imgur.com/hM610dv.gif
+{
+  ContributorName: 'Aman Tiwari',
+  ContributorURL: "https://github.com/AmanTiwari19",
+  AnimationGif: 'https://i.imgur.com/hM610dv.gif',
+  AnimationURL: "./animations/bird_animation/bird_animation.html",
+},
 ]
