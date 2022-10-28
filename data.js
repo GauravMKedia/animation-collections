@@ -397,4 +397,12 @@ let animtaionData = [
   AnimationGif: 'https://i.imgur.com/hM610dv.gif',
   AnimationURL: "./animations/bird_animation/bird_animation.html",
 },
+
+{
+  ContributorName: 'Jiya Rathi',
+  ContributorURL: "https://github.com/jiya1402",
+  AnimationGif: 'https://i.imgur.com/RR514VD.gif',
+  AnimationURL: "./animations/Tree-Animation/index.html",
+}, 
+  
 ]
