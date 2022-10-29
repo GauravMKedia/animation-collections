@@ -430,7 +430,7 @@ let animtaionData = [
     ContributorName: 'Jiya Rathi',
     ContributorURL: "https://github.com/jiya1402",
     AnimationGif: 'https://i.imgur.com/R3uJUtz.gif',
-    AnimationURL: "./animations/3_Dts/index.html",
+    AnimationURL: "./animations/3_Dots/index.html",
   }, 
   
 ]
