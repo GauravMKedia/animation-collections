@@ -408,5 +408,10 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/RR514VD.gif',
     AnimationURL: "./animations/Tree-Animation/index.html",
   }, 
-
+  {
+    ContributorName: 'Siddhesh Jawadi',
+    ContributorURL: "https://github.com/SiddheshJawadi",
+    AnimationGif: "https://i.imgur.com/F0lZMaY.gif",
+    AnimationURL: "./animations/Cat_animation/index.html",
+  },
 ]
