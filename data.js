@@ -389,18 +389,24 @@ let animtaionData = [
     ContributorURL: "https://github.com/gitPranav09",
     AnimationGif: 'https://i.imgur.com/x06kEZ9.gif',
     AnimationURL: "./animations/3D_box/box.html",
-},
-//https://i.imgur.com/hM610dv.gif
-{
-  ContributorName: 'Aman Tiwari',
-  ContributorURL: "https://github.com/AmanTiwari19",
-  AnimationGif: 'https://i.imgur.com/hM610dv.gif',
-  AnimationURL: "./animations/bird_animation/bird_animation.html",
-},
-{
-  ContributorName: 'Siddhesh Jawadi',
-  ContributorURL: "https://github.com/SiddheshJawadi",
-  AnimationGif: "https://i.imgur.com/7at5ARr.gif",
-  AnimationURL: "./animations/opening_envelop/index.html",
-},
+  },
+  {
+    ContributorName: 'Aman Tiwari',
+    ContributorURL: "https://github.com/AmanTiwari19",
+    AnimationGif: 'https://i.imgur.com/hM610dv.gif',
+    AnimationURL: "./animations/bird_animation/bird_animation.html",
+  },
+  {
+    ContributorName: 'Siddhesh Jawadi',
+    ContributorURL: "https://github.com/SiddheshJawadi",
+    AnimationGif: "https://i.imgur.com/7at5ARr.gif",
+    AnimationURL: "./animations/opening_envelop/index.html",
+  },
+  {
+    ContributorName: 'Jiya Rathi',
+    ContributorURL: "https://github.com/jiya1402",
+    AnimationGif: 'https://i.imgur.com/RR514VD.gif',
+    AnimationURL: "./animations/Tree-Animation/index.html",
+  }, 
+
 ]
