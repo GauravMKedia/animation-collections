@@ -414,4 +414,11 @@ let animtaionData = [
     AnimationGif: "https://i.imgur.com/F0lZMaY.gif",
     AnimationURL: "./animations/Cat_animation/index.html",
   },
+  {
+    ContributorName: 'Jiya Rathi',
+    ContributorURL: "https://github.com/jiya1402",
+    AnimationGif: 'https://i.imgur.com/0qhnDC7.gif',
+    AnimationURL: "./animations/Sliding_Loader/index.html",
+  }, 
+  
 ]
