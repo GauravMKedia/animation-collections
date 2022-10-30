@@ -431,6 +431,12 @@ let animtaionData = [
     ContributorURL: "https://github.com/jiya1402",
     AnimationGif: 'https://i.imgur.com/R3uJUtz.gif',
     AnimationURL: "./animations/3_Dots/index.html",
-  }, 
+  },
+  {
+  ContributorName: 'Krishna Mundada',
+  ContributorURL: 'https://github.com/krishna050702',
+  AnimationGif: 'https://i.imgur.com/xDfX9P4.gif',
+  AnimationURL: './animations/Bouncy_Loader/index.html',
+},
   
 ]
