@@ -407,7 +407,7 @@ let animtaionData = [
     ContributorURL: "https://github.com/jiya1402",
     AnimationGif: 'https://i.imgur.com/RR514VD.gif',
     AnimationURL: "./animations/Tree-Animation/index.html",
-  }, 
+  },
   {
     ContributorName: 'Siddhesh Jawadi',
     ContributorURL: "https://github.com/SiddheshJawadi",
@@ -419,13 +419,13 @@ let animtaionData = [
     ContributorURL: "https://github.com/jiya1402",
     AnimationGif: 'https://i.imgur.com/0qhnDC7.gif',
     AnimationURL: "./animations/Sliding_Loader/index.html",
-  }, 
+  },
   {
     ContributorName: 'Jiya Rathi',
     ContributorURL: "https://github.com/jiya1402",
     AnimationGif: 'https://i.imgur.com/ttmHfzo.gif',
     AnimationURL: "./animations/Clicker/index.html",
-  }, 
+  },
   {
     ContributorName: 'Jiya Rathi',
     ContributorURL: "https://github.com/jiya1402",
@@ -433,16 +433,22 @@ let animtaionData = [
     AnimationURL: "./animations/3_Dots/index.html",
   },
   {
-  ContributorName: 'Krishna Mundada',
-  ContributorURL: 'https://github.com/krishna050702',
-  AnimationGif: 'https://i.imgur.com/xDfX9P4.gif',
-  AnimationURL: './animations/Bouncy_Loader/index.html',
-},
+    ContributorName: 'Krishna Mundada',
+    ContributorURL: 'https://github.com/krishna050702',
+    AnimationGif: 'https://i.imgur.com/xDfX9P4.gif',
+    AnimationURL: './animations/Bouncy_Loader/index.html',
+  },
   {
-  ContributorName: 'Krishna Mundada',
-  ContributorURL: 'https://github.com/krishna050702',
-  AnimationGif: 'https://i.imgur.com/8yXSDtM.gif',
-  AnimationURL: './animations/Google_Loader/index.html',
-},
-  
+    ContributorName: 'Krishna Mundada',
+    ContributorURL: 'https://github.com/krishna050702',
+    AnimationGif: 'https://i.imgur.com/8yXSDtM.gif',
+    AnimationURL: './animations/Google_Loader/index.html',
+  },
+  {
+    ContributorName: 'Madhav Jha',
+    ContributorURL: 'https://github.com/jhamadhav',
+    AnimationGif: 'https://i.imgur.com/ItuwXP1.gif',
+    AnimationURL: './animations/Simple_Loading/index.html',
+  },
+
 ]
