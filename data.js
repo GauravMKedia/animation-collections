@@ -444,5 +444,11 @@ let animtaionData = [
   AnimationGif: 'https://i.imgur.com/8yXSDtM.gif',
   AnimationURL: './animations/Google_Loader/index.html',
 },
+  {
+  ContributorName: 'Tejaswini Padole',
+  ContributorURL: 'https://github.com/Tejaswini194/',
+  AnimationGif: 'https://i.imgur.com/opCUn4c.gif',
+  AnimationURL: './animations/css_Loading_ten_animations/main.html',
+},
   
 ]
