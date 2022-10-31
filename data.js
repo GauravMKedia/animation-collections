@@ -472,5 +472,10 @@ let animtaionData = [
     ContributorURL: 'https://github.com/jhamadhav',
     AnimationGif: 'https://i.imgur.com/sXHFNVK.gif',
     AnimationURL: './animations/Wave_Loader/index.html',
+  }, {
+    ContributorName: 'Madhav Jha',
+    ContributorURL: 'https://github.com/jhamadhav',
+    AnimationGif: 'https://i.imgur.com/I02KqGw.gif',
+    AnimationURL: './animations/Deleting_Loader/index.html',
   },
 ]
