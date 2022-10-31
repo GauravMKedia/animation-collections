@@ -450,5 +450,17 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/ItuwXP1.gif',
     AnimationURL: './animations/Simple_Loading/index.html',
   },
-
+  { 
+    ContributorName: 'Krishna Mundada',
+    ContributorURL: 'https://github.com/krishna050702',
+    AnimationGif: 'https://i.imgur.com/8yXSDtM.gif',
+    AnimationURL: './animations/Google_Loader/index.html',
+  },
+  {
+    ContributorName: 'Tejaswini Padole',
+    ContributorURL: 'https://github.com/Tejaswini194/',
+    AnimationGif: 'https://i.imgur.com/opCUn4c.gif',
+    AnimationURL: './animations/css_Loading_ten_animations/main.html',
+  },
+ 
 ]
