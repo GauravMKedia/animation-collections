@@ -482,5 +482,10 @@ let animtaionData = [
     ContributorURL: 'https://github.com/jhamadhav',
     AnimationGif: 'https://i.imgur.com/5d7snWl.gif',
     AnimationURL: './animations/Animated_Flipping/index.html',
+  }, {
+    ContributorName: 'Madhav Jha',
+    ContributorURL: 'https://github.com/jhamadhav',
+    AnimationGif: 'https://i.imgur.com/NB6gi3f.gif',
+    AnimationURL: './animations/Rainbow_Loader/index.html',
   },
 ]
