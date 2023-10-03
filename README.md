@@ -9,10 +9,22 @@ This is a repository *entirely dedicated* to animations used in creating a websi
 
 ## Launguage to be Considered
 - HTML
-- CSS
+- CSS/SCSS
 - JavaSript
 - React.js
 - Node.js
+
+## How to Create Gif?
+1. Do the screen recording of your animation.
+
+2. Go to https://ezgif.com/video-to-gif.
+
+3. Add your Video Crop and Cut it and save the gif.
+
+4. To get imgur link of your gif. 
+
+5. Goto => https://img.doerig.dev/  add your gif link and get that link then paste it in data.js file.
+
 
 # 🎇How To Contribute 🎇
 
@@ -29,7 +41,7 @@ To start contributing, follow the below guidelines:
 4. Work on it i.e 
    * Create the animation by yourself.
    * Add it to your forked repo, if the folder doesn't exist create it first and then add your code.
-   * Add a gif of your animation in your folder for preview.
+   * Add a gif to imgur site get the link.
    * Add your detail in data.js file as shown.
 
 5. Make a pull request. 

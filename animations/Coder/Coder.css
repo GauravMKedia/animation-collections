@@ -1,0 +1,30 @@
+body{background: #f0f0f0;}
+svg{
+  display: block;
+  width: 40%;
+  margin: auto;
+  
+}
+#coder{
+  animation: dash 10s linear forwards;
+  stroke-dasharray: 5000;
+  stroke-dashoffset: 5000;
+}
+@keyframes dash {
+  to {
+    stroke-dashoffset: 10;
+  }
+}
+#colors{
+  opacity: 0;
+  animation: colorIn 5s 8s ease-out forwards;
+}
+@keyframes colorIn {
+  from {opacity:0;}
+  to {opacity: 1;}
+}
+@media only screen and (max-width: 600px) {
+    svg {
+        width: 100%;
+    }
+}

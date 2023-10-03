@@ -1,0 +1,103 @@
+body{
+    background-color:#fff;
+    }
+    div.text{
+    position:absolute;
+    top:20px;
+    left:500px;
+    font-size:100px;
+    }
+    svg #rooh{
+    -webkit-animation:amin_updown ease-in-out 1.5s infinite;
+    -moz-animation:amin_updown ease-in-out 1.5s infinite;
+    -ms-animation:amin_updown ease-in-out 1.5s infinite;
+    -o-animation:amin_updown ease-in-out 1.5s infinite;
+    animation:amin_updown ease-in-out 1.5s infinite;
+    -webkit-transform-origin:100% 50%;
+    -moz-transform-origin:100% 50%;
+    -ms-transform-origin:100% 50%;
+    -o-transform-origin:100% 50%;
+    transform-origin:100% 50%;
+    }
+    svg #rooh #lefthand{
+    -webkit-animation:amin_rotate ease-in-out 4s infinite;
+    -moz-animation:amin_rotate ease-in-out 4s infinite;
+    -ms-animation:amin_rotate ease-in-out 4s infinite;
+    -o-animation:amin_rotate ease-in-out 4s infinite;
+    animation:amin_rotate ease-in-out 4s infinite;
+    -webkit-transform-origin:100% 50%;
+    -moz-transform-origin:100% 50%;
+    -ms-transform-origin:100% 50%;
+    -o-transform-origin:100% 50%;
+    transform-origin:100% 50%;
+    }
+    svg #rooh #righthand{
+    -webkit-animation:amin_rotate ease-in-out 3s infinite;
+    -moz-animation:amin_rotate ease-in-out 3s infinite;
+    -ms-animation:amin_rotate ease-in-out 3s infinite;
+    -o-animation:amin_rotate ease-in-out 3s infinite;
+    animation:amin_rotate ease-in-out 3s infinite;
+    -webkit-transform-origin:0% 50%;
+    -moz-transform-origin:0% 50%;
+    -ms-transform-origin:0% 50%;
+    -o-transform-origin:0% 50%;
+    transform-origin:0% 50%;
+    }
+    svg #rooh #bottom{
+    -webkit-animation:amin_rotate2 ease-in-out 5s infinite;
+    -moz-animation:amin_rotate2 ease-in-out 5s infinite;
+    -ms-animation:amin_rotate2 ease-in-out 5s infinite;
+    -o-animation:amin_rotate2 ease-in-out 5s infinite;
+    animation:amin_rotate2 ease-in-out 5s infinite;
+    -webkit-transform-origin:60% 10%;
+    -moz-transform-origin:60% 10%;
+    -ms-transform-origin:60% 10%;
+    -o-transform-origin:60% 10%;
+    transform-origin:60% 10%;
+    }
+    svg #rooh,
+    svg #rooh #lefthand,
+    svg #rooh #righthand,
+    svg #rooh #bottom{
+    -webkit-animation-direction:alternate;
+    -moz-animation-direction:alternate;
+    -ms-animation-direction:alternate;
+    -o-animation-direction:alternate;
+    animation-direction:alternate;
+    }
+    
+    /* keyframes Normal */
+    @keyframes amin_rotate {
+      0% { transform:  rotate(-10deg); }
+      100% { transform:  rotate(10deg); }
+    }
+    @keyframes amin_rotate2 {
+      0% { transform:  rotate(-5deg); }
+      100% { transform:  rotate(10deg); }
+    }
+    @keyframes amin_updown {
+      0% { transform:translate(0px,-500px); }
+      100% { transform:translate(0px,500px); }
+    }
+      
+    /* keyframes -webkit- */
+    @-webkit-keyframes amin_rotate { 0% { -webkit-transform:  rotate(-10deg); } 100% { -webkit-transform:  rotate(10deg); } }
+    @-webkit-keyframes amin_rotate2 { 0% { -webkit-transform:  rotate(-5deg); } 100% { -webkit-transform:  rotate(10deg); } }
+    @-webkit-keyframes amin_updown { 0% { -webkit-transform:translate(0px,-500px); } 100% { -webkit-transform:translate(0px,500px); } }
+    
+    /* keyframes -moz- */
+    @-moz-keyframes amin_rotate { 0% { -moz-transform:  rotate(-10deg); } 100% { -moz-transform:  rotate(10deg); } }
+    @-moz-keyframes amin_rotate2 { 0% { -moz-transform:  rotate(-5deg); } 100% { -moz-transform:  rotate(10deg); } }
+    @-moz-keyframes amin_updown { 0% { -moz-transform:translate(0px,-500px); } 100% { -moz-transform:translate(0px,500px); } }
+    
+    /* keyframes -ms- */
+    @-ms-keyframes amin_rotate { 0% { -ms-transform:  rotate(-10deg); } 100% { -ms-transform:  rotate(10deg); } }
+    @-ms-keyframes amin_rotate2 { 0% { -ms-transform:  rotate(-5deg); } 100% { -ms-transform:  rotate(10deg); } }
+    @-ms-keyframes amin_updown { 0% { -ms-transform:translate(0px,-500px); } 100% { -ms-transform:translate(0px,500px); } }
+    
+    /* keyframes -o- */
+    @-o-keyframes amin_rotate { 0% { -o-transform:  rotate(-10deg); } 100% { -o-transform:  rotate(10deg); } }
+    @-o-keyframes amin_rotate2 { 0% { -o-transform:  rotate(-5deg); } 100% { -o-transform:  rotate(10deg); } }
+    @-o-keyframes amin_updown { 0% { -o-transform:translate(0px,-500px); } 100% { -o-transform:translate(0px,500px); } }
+    
+    

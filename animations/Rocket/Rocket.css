@@ -1,0 +1,80 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+svg{
+  width:100%;
+  height:100%;
+}
+#giant-head{
+  animation: float 4s infinite ease-in-out;
+      animation-direction: alternate-reverse;
+
+  transform:translatey(10px);
+  
+  
+}
+@keyframes float{
+  
+  100%{
+    transform:translatey(-10px);
+  }
+  
+}
+#satellite-layer{
+   animation: float 10s infinite ease-in-out;
+      animation-direction: alternate-reverse;
+
+  transform:translatey(10px);
+}
+.flame{
+  animation: flaming 1s ease-in-out infinite;
+  
+}
+@keyframes flaming {
+  0%{
+    opacity:0.3;
+    transform:scale(1);
+  }
+}
+
+#smoke {
+   animation: smoke 0.2s infinite ease-in-out;
+  
+}
+@keyframes smoke {
+  0%{
+    transform:scale(1);
+  transform-origin:center;
+  }
+  100%{
+    transform:scale(1.2);
+  transform-origin:center;
+  }
+}
+#rocket{
+  animation: float 0.2s infinite ease-in-out;
+      animation-direction: alternate-reverse;
+}
+#planet {
+  transform:translatey(-270px);
+  animation: slidedown 8s infinite ;
+}
+@keyframes slidedown{
+  0%{
+    transform:translatey(0px);
+  }
+  100%{
+    transform:translatey(640px);
+  }
+}
+#path2041{
+   transform:translate(200px,250px) scale(0.8);
+}
+.cloud{
+  animation: slidedown 15s infinite ;
+}
+iframe{
+  visibility:hidden;
+  position:absolute;
+} 
