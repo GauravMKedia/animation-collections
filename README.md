@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="./Logo.png" width="40%">
+    <a href="https://hacktoberfest.com/
+        <img src="./Logo_23.png" width="40%">
     </a>
 </p>
 <h1 align="center"> Web Animations 🎉</h1>

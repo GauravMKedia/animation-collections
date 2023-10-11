@@ -467,25 +467,4 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/IxMBFke.gif',
     AnimationURL: './animations/Nuemorphic_Preloader/index.html',
   },
-  {
-    ContributorName: 'Madhav Jha',
-    ContributorURL: 'https://github.com/jhamadhav',
-    AnimationGif: 'https://i.imgur.com/sXHFNVK.gif',
-    AnimationURL: './animations/Wave_Loader/index.html',
-  }, {
-    ContributorName: 'Madhav Jha',
-    ContributorURL: 'https://github.com/jhamadhav',
-    AnimationGif: 'https://i.imgur.com/I02KqGw.gif',
-    AnimationURL: './animations/Deleting_Loader/index.html',
-  }, {
-    ContributorName: 'Madhav Jha',
-    ContributorURL: 'https://github.com/jhamadhav',
-    AnimationGif: 'https://i.imgur.com/5d7snWl.gif',
-    AnimationURL: './animations/Animated_Flipping/index.html',
-  }, {
-    ContributorName: 'Madhav Jha',
-    ContributorURL: 'https://github.com/jhamadhav',
-    AnimationGif: 'https://i.imgur.com/NB6gi3f.gif',
-    AnimationURL: './animations/Rainbow_Loader/index.html',
-  },
 ]
