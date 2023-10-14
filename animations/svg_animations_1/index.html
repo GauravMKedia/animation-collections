@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 175, 175);
+  position: relative;
+  animation-name: example;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes example {
+  0%   {background-color:rgb(255, 175, 175); left:0px; top:0px;}
+  25%  {background-color:rgb(255, 255, 175); left:200px; top:0px;}
+  50%  {background-color:rgb(175, 175, 255); left:200px; top:200px;}
+  75%  {background-color:rgb(175, 255, 175); left:0px; top:200px;}
+  100% {background-color:rgb(255, 175, 175); left:0px; top:0px;}
+}
+</style>
+</head>
+<body>
+
+
+
+<div></div>
+
+</body>
+</html>
+
+
