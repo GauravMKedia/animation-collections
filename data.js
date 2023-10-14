@@ -467,4 +467,10 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/IxMBFke.gif',
     AnimationURL: './animations/Nuemorphic_Preloader/index.html',
   },
+  {
+    ContributorName: 'Reema Khandelwal',
+    ContributorURL: 'https://github.com/reemakhandelwal',
+    AnimationGif: 'https://i.imgur.com/i1FPASq.gif',
+    AnimationURL: './animations/svg_animations/index1.html',
+  },
 ]
