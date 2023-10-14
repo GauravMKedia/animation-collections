@@ -485,4 +485,11 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/L8skYZV.gif',
     AnimationURL: './animations/svg_animations_2/index.html',
   },
+  {
+    ContributorName: 'Reema Khandelwal',
+    ContributorURL: 'https://github.com/reemakhandelwal',
+    AnimationGif: 'https://i.imgur.com/eZWiXTq.gif',
+    AnimationURL: './animations/svg_animations_3/index.html',
+  },
+
 ]
