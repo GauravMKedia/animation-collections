@@ -473,4 +473,10 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/i1FPASq.gif',
     AnimationURL: './animations/svg_animations/index1.html',
   },
+  {
+    ContributorName: 'Reema Khandelwal',
+    ContributorURL: 'https://github.com/reemakhandelwal',
+    AnimationGif: 'https://i.imgur.com/lOQ7Ap0.gif',
+    AnimationURL: './animations/svg_animations_1/index.html',
+  },
 ]
