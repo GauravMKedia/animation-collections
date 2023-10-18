@@ -503,6 +503,12 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/bz0IJyM.gif',
     AnimationURL: './animations/Cube/Cube.html',
   },
+  {
+    ContributorName: 'Riya Loya',
+    ContributorURL: 'https://github.com/Riyaloya27',
+    AnimationGif: 'https://i.imgur.com/506ZvgE.gif',
+    AnimationURL: './animations/Flying Ball/flying_ball.html',
+  },
 
 
 ]
