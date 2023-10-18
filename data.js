@@ -497,6 +497,12 @@ let animtaionData = [
     AnimationGif: 'https://i.imgur.com/BgCihV9.gif',
     AnimationURL: './animations/Blinds/blind.html',
   },
+  {
+    ContributorName: 'Riya Loya',
+    ContributorURL: 'https://github.com/Riyaloya27',
+    AnimationGif: 'https://i.imgur.com/bz0IJyM.gif',
+    AnimationURL: './animations/Cube/Cube.html',
+  },
 
 
 ]
